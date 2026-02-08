@@ -1,0 +1,1 @@
+{"name":"bilibili-video-summarizer","version":"1.0.0","description":"自动化B站视频内容总结工具","main":"capture-bilibili-audio.js","scripts":{"capture":"node capture-bilibili-audio.js","install-deps":"npm install && npx playwright install chromium"},"keywords":["bilibili","video","summarize","whisper","ai"],"author":"","license":"MIT","dependencies":{"playwright":"^1.40.0"}}
